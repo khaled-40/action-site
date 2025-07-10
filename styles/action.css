@@ -1,0 +1,23 @@
+/* shared style */
+* {
+    margin: 0;
+    padding: 0;
+}
+.btn-primary {
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    padding: 12px 12px;
+    border-radius: 8px;
+    border: none;
+}
+/* nav section style  */
+.opening {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 20px;
+}
+.logo {
+    font-size: 34px;
+    color: #4E47FF;
+}
