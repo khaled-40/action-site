@@ -95,5 +95,31 @@ nav ul li {
 }
 /* User section styles  */
 .user {
-    background-color: #a7a4ff;
+    background-color: #e6e4ff;
+    margin: 100px 100px;
+    border-radius: 30px;
+}
+.user-title {
+    text-align: center;
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 30px;
+    padding: 30px;
+}
+.user-details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.user-number {
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+}
+.user-description {
+    font-size: 20px;
+    font-weight: normal;
+    color: #696969;
 }
