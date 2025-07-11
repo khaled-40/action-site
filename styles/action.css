@@ -65,7 +65,7 @@ nav ul li {
     border-radius: 10px;
     border: none;
     width: 170px;
-    margin-bottom: 1;
+    margin-bottom: 20px;
 }
 .btn-2:hover {
     background-color: yellow;
